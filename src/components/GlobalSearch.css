@@ -1,0 +1,4 @@
+.nav-link {
+    color: inherit; /* This will make the link have the same color as the surrounding text */
+    text-decoration: none; /* This will remove the underline */
+}

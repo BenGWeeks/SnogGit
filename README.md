@@ -1,6 +1,16 @@
+# Introduction
+
+![SnogGit Preview](SnogGitPreview.png)
+
+SnogGit is a decentralised source-control and development planning tool built on the decentralised Nostr protocol.
+
+** STILL IN DEVELOPMENT **
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The project uses React, TypeScript, and Fluent UI React v9.
 
 ## Available Scripts
 
