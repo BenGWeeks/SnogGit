@@ -4,6 +4,8 @@
 
 SnogGit is a decentralised source-control and development planning tool built on the decentralised Nostr protocol.
 
+Figma: [https://www.figma.com/file/KwpIVgzyL8gQob3oFkib33/GitDam?type=design&node-id=5%3A1110&mode=dev](https://www.figma.com/file/KwpIVgzyL8gQob3oFkib33/GitDam?type=design&node-id=5%3A1110&mode=dev)
+
 ** STILL IN DEVELOPMENT **
 
 # Getting Started with Create React App
